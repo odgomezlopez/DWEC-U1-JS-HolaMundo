@@ -1,0 +1,29 @@
+{
+  "name": "dwec-u1-holamundo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "browserslist": ["last 2 years"],
+  "browserslist-alt": ["last 2 years","5%","defaults","not dead"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/odgomezlopez/JS-HolaMundo.git"
+  },
+  "author": "Oscar Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odgomezlopez/JS-HolaMundo/issues"
+  },
+  "homepage": "https://github.com/odgomezlopez/JS-HolaMundo#readme",
+  "dependencies": {
+    "g": "^2.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-google": "^0.14.0",
+    "eslint-plugin-compat": "^4.0.2"
+  }
+}
