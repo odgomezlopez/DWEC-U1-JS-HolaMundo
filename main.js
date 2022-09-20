@@ -9,8 +9,8 @@ function init() {
 
 
   //Ejemplo de error
-  const name='error';
-  console.log('Hola ' + nombre);
+  //const name='error';
+  //console.log('Hola ' + nombre);
 }
 
 /*function checkEsLintCompability(){
